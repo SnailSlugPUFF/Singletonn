@@ -1,0 +1,10 @@
+C:\Users\Anton\Source\Repos\Sig\Sig\bin\Debug\Sig.exe.config
+C:\Users\Anton\Source\Repos\Sig\Sig\bin\Debug\Sig.exe
+C:\Users\Anton\Source\Repos\Sig\Sig\bin\Debug\Sig.pdb
+C:\Users\Anton\Source\Repos\Sig\Sig\bin\Debug\SharedLibra.dll
+C:\Users\Anton\Source\Repos\Sig\Sig\bin\Debug\SharedLibra.pdb
+C:\Users\Anton\Source\Repos\Sig\Sig\obj\Debug\Writer.csproj.AssemblyReference.cache
+C:\Users\Anton\Source\Repos\Sig\Sig\obj\Debug\Writer.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Source\Repos\Sig\Sig\obj\Debug\Writer.csproj.CopyComplete
+C:\Users\Anton\Source\Repos\Sig\Sig\obj\Debug\Sig.exe
+C:\Users\Anton\Source\Repos\Sig\Sig\obj\Debug\Sig.pdb

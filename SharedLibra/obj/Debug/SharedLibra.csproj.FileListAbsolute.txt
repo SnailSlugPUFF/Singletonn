@@ -1,0 +1,6 @@
+C:\Users\Anton\Source\Repos\Sig\SharedLibra\bin\Debug\SharedLibra.dll
+C:\Users\Anton\Source\Repos\Sig\SharedLibra\bin\Debug\SharedLibra.pdb
+C:\Users\Anton\Source\Repos\Sig\SharedLibra\obj\Debug\SharedLibra.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Source\Repos\Sig\SharedLibra\obj\Debug\SharedLibra.dll
+C:\Users\Anton\Source\Repos\Sig\SharedLibra\obj\Debug\SharedLibra.pdb
+C:\Users\Anton\Source\Repos\Sig\SharedLibra\obj\Debug\SharedLibra.csproj.AssemblyReference.cache

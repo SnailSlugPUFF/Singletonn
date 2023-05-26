@@ -1,0 +1,10 @@
+C:\Users\Anton\Source\Repos\Sig\Rud\bin\Debug\Rud.exe.config
+C:\Users\Anton\Source\Repos\Sig\Rud\bin\Debug\Rud.exe
+C:\Users\Anton\Source\Repos\Sig\Rud\bin\Debug\Rud.pdb
+C:\Users\Anton\Source\Repos\Sig\Rud\bin\Debug\SharedLibra.dll
+C:\Users\Anton\Source\Repos\Sig\Rud\bin\Debug\SharedLibra.pdb
+C:\Users\Anton\Source\Repos\Sig\Rud\obj\Debug\Rud.csproj.AssemblyReference.cache
+C:\Users\Anton\Source\Repos\Sig\Rud\obj\Debug\Rud.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Source\Repos\Sig\Rud\obj\Debug\Rud.csproj.CopyComplete
+C:\Users\Anton\Source\Repos\Sig\Rud\obj\Debug\Rud.exe
+C:\Users\Anton\Source\Repos\Sig\Rud\obj\Debug\Rud.pdb

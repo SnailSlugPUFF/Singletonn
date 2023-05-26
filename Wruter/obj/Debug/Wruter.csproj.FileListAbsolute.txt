@@ -1,0 +1,10 @@
+C:\Users\Anton\Source\Repos\Sig\Wruter\bin\Debug\Wruter.exe.config
+C:\Users\Anton\Source\Repos\Sig\Wruter\bin\Debug\Wruter.exe
+C:\Users\Anton\Source\Repos\Sig\Wruter\bin\Debug\Wruter.pdb
+C:\Users\Anton\Source\Repos\Sig\Wruter\bin\Debug\SharedLibra.dll
+C:\Users\Anton\Source\Repos\Sig\Wruter\bin\Debug\SharedLibra.pdb
+C:\Users\Anton\Source\Repos\Sig\Wruter\obj\Debug\Wruter.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Source\Repos\Sig\Wruter\obj\Debug\Wruter.csproj.CopyComplete
+C:\Users\Anton\Source\Repos\Sig\Wruter\obj\Debug\Wruter.exe
+C:\Users\Anton\Source\Repos\Sig\Wruter\obj\Debug\Wruter.pdb
+C:\Users\Anton\Source\Repos\Sig\Wruter\obj\Debug\Wruter.csproj.AssemblyReference.cache
